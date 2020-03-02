@@ -1,0 +1,6 @@
+C:\Users\Ian local\Documents\Visual Studio 2015\Projects\iterateoo\iterateoo\bin\Debug\iterateoo.exe.config
+C:\Users\Ian local\Documents\Visual Studio 2015\Projects\iterateoo\iterateoo\obj\Debug\iterateoo.csprojResolveAssemblyReference.cache
+C:\Users\Ian local\Documents\Visual Studio 2015\Projects\iterateoo\iterateoo\bin\Debug\iterateoo.exe
+C:\Users\Ian local\Documents\Visual Studio 2015\Projects\iterateoo\iterateoo\bin\Debug\iterateoo.pdb
+C:\Users\Ian local\Documents\Visual Studio 2015\Projects\iterateoo\iterateoo\obj\Debug\iterateoo.exe
+C:\Users\Ian local\Documents\Visual Studio 2015\Projects\iterateoo\iterateoo\obj\Debug\iterateoo.pdb
