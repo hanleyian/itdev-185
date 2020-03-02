@@ -1,0 +1,6 @@
+C:\Users\Ian local\Documents\Visual Studio 2015\Projects\Genericoo\Genericoo\bin\Debug\Genericoo.exe.config
+C:\Users\Ian local\Documents\Visual Studio 2015\Projects\Genericoo\Genericoo\bin\Debug\Genericoo.exe
+C:\Users\Ian local\Documents\Visual Studio 2015\Projects\Genericoo\Genericoo\bin\Debug\Genericoo.pdb
+C:\Users\Ian local\Documents\Visual Studio 2015\Projects\Genericoo\Genericoo\obj\Debug\Genericoo.csprojResolveAssemblyReference.cache
+C:\Users\Ian local\Documents\Visual Studio 2015\Projects\Genericoo\Genericoo\obj\Debug\Genericoo.exe
+C:\Users\Ian local\Documents\Visual Studio 2015\Projects\Genericoo\Genericoo\obj\Debug\Genericoo.pdb
